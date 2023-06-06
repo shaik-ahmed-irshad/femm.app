@@ -10971,9 +10971,9 @@ header.masthead .masthead-subheading {
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 header.masthead .masthead-heading {
-  font-size: 2.2rem;
-  font-weight: 700;
-  line-height: 3.25rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 3rem;
   margin-bottom: 1rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -10990,10 +10990,10 @@ header.masthead .masthead-heading {
     margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
-    font-size: 2.2rem;
-    font-weight: 700;
-    line-height: 4.5rem;
-    margin-bottom: 4rem;
+    font-size: 1.7rem;
+    font-weight: 600;
+    line-height: 3rem;
+    margin-bottom: 1rem;
   }
 }
 #portfolio .portfolio-item {
